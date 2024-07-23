@@ -34,7 +34,7 @@ A simple command-line calculator application built with Kotlin.
 ## Example  📝  
 **...Welcome to Kotlin Calculator...**
 
-Enter first number: 5
+Enter first number: 5  
 Enter operator (+, -, *, /, sqrt, ^, c, h) or '=' to finish: +  
 Enter next number: 1  
 Current result: 6.0  
